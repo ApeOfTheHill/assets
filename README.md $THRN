@@ -5,9 +5,9 @@
 $THRN is a meme-powered community token where only the strongest rise. Fueled by legendary art, NFTs, staking, and utility — the climb begins now.
 
 ## 🔗 Official Links
-- 🌐 Website: https://yourdomain.netlify.app
-- 🐦 Twitter: https://twitter.com/yourhandle
-- 💬 Telegram: https://t.me/yourgroup
+- 🌐 Website: https://apeofthehill.netlify.app
+- 🐦 Twitter: https://twitter.com/ApeOfTheHill
+- 💬 Telegram: https://t.me/ApeOfTheHill
 
 ## 🧾 Token Details
 - **Name:** Ape of the Hill
@@ -16,8 +16,8 @@ $THRN is a meme-powered community token where only the strongest rise. Fueled by
 - **Token Address:** `2T6vwSajccRRb4roAdqZqgZhtWdPqVQm8kjDUrSqMray`
 
 ## 📦 Assets
-- **Logo:** `/5FC743D6-6C6E-401E-9CB4-AA62D11636XX.png` (transparent PNG)
-- **NFTs:** Available via LaunchMyNFT
+- **Logo:** Transparent PNG available in repo
+- **NFTs:** [LaunchMyNFT Collection](https://launchmynft.io/sol/16583)
 
 ---
 
